@@ -1,9 +1,14 @@
-.u-alignCenter {
-    text-align: center;
-}
+// text selectors <3
 ::selection {
   background: rgb(255, 255, 165);
 }
 ::-moz-selection {
   background: rgb(255, 255, 165);
+}
+
+.u-alignCenter {
+    text-align: center;
+}
+.u-img {
+    width: 100%;
 }
