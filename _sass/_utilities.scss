@@ -1,14 +1,17 @@
-// text selectors <3
-::selection {
-  background: rgb(255, 255, 165);
-}
-::-moz-selection {
-  background: rgb(255, 255, 165);
-}
+@import "variables";
 
 .u-alignCenter {
     text-align: center;
 }
-.u-img {
+.u-imgWidth {
     width: 100%;
+}
+.u-fontMono {
+    font-family: $font-mono;
+}
+.u-fontSans {
+    font-family: $font-sans;
+}
+.u-bold {
+    font-weight: 700;
 }

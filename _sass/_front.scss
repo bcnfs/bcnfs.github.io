@@ -1,6 +1,41 @@
 @import "variables";
+
 body {
-    font-family: $font-mono;
+    font-family: $font-sans;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+a {
+    color: rgb(51, 51, 51);
+    background-color: rgb(255, 255, 165);
+}
+a:hover {
+    color: rgb(51, 51, 51);
+    text-decoration: none;
+}
+
+// text selectors <3
+::selection {
+    background: rgb(255, 255, 165);
+}
+::-moz-selection {
+    background: rgb(255, 255, 165);
+}
+
+// page styles
+.jumbotron {
+    font-family: $font-mono;
+    padding: 5em;
+}
+.jumbo-bgImage {
+    background: url("/images/open-data.jpg") no-repeat center center;
+    background-size: cover;
+}
+.jumbo-headline {
+}
+.introText {
+    font-size: 25px;
+}
+.introText--title {
+    font-size: 30px;
 }
