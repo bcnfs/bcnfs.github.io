@@ -4,6 +4,7 @@ body {
     font-family: $font-sans;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    font-weight: 300;
 }
 a {
     color: rgb(51, 51, 51);
@@ -12,6 +13,7 @@ a {
 a:hover {
     color: rgb(51, 51, 51);
     text-decoration: none;
+    border-bottom: 1px solid rgb(51, 51, 51);
 }
 
 // text selectors <3
@@ -26,12 +28,11 @@ a:hover {
 .jumbotron {
     font-family: $font-mono;
     padding: 5em;
+    margin-bottom: 60px;
 }
 .jumbo-bgImage {
     background: url("/images/open-data.jpg") no-repeat center center;
     background-size: cover;
-}
-.jumbo-headline {
 }
 .introText {
     font-size: 25px;
