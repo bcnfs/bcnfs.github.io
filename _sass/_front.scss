@@ -1,10 +1,14 @@
 @import "variables";
-
+html {
+    position: relative;
+    min-height: 100%;
+}
 body {
     font-family: $font-sans;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-weight: 300;
+    margin-bottom: 10px;
 }
 a {
     color: rgb(51, 51, 51);
