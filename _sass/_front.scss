@@ -1,4 +1,5 @@
 @import "variables";
+
 html {
     position: relative;
     min-height: 100%;
@@ -31,16 +32,30 @@ a:hover {
 // page styles
 .jumbotron {
     font-family: $font-mono;
-    padding: 5em;
-    margin-bottom: 60px;
 }
 .jumbo-bgImage {
     background: url("/images/open-data.jpg") no-repeat center center;
     background-size: cover;
 }
 .introText {
-    font-size: 25px;
+    font-size: 20px;
 }
 .introText--title {
-    font-size: 30px;
+    font-size: 22px;
+}
+
+@media screen and (min-width: $screen-lg-min) {
+    .container {
+        width: 970px;
+    }
+    .jumbotron {
+        padding: 5em;
+        margin-bottom: 60px;
+    }
+    .introText {
+        font-size: 25px;
+    }
+    .introText--title {
+        font-size: 30px;
+    }
 }

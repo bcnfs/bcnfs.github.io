@@ -1,3 +1,8 @@
 // General variables
 $font-mono: "Source Code Pro", "Monaco", Courier, monospace;
 $font-sans: "Work Sans", "Helvetica Neue", "Helvetica", Arial, sans-serif;
+
+// Magic media queries from Bootstrap: http://getbootstrap.com/css/
+$screen-sm-min: 768px;
+$screen-md-min: 992px;
+$screen-lg-min: 1200px;
