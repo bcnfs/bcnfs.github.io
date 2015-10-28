@@ -1,5 +1,5 @@
-# bfs site
-website for the meetup, using jekyll and bootstrap.
+# bcnfs site
+Website for the meetup, uses [Jekyll](https://jekyllrb.com/) and [Bootstrap](http://getbootstrap.com/).
 
 ## License
 
