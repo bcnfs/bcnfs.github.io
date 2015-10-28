@@ -20,21 +20,12 @@ a:hover {
     text-decoration: none;
 }
 
-// text selectors <3
-::selection {
-    background: rgb(255, 255, 165);
-}
-::-moz-selection {
-    background: rgb(255, 255, 165);
-}
-
 // page styles
 .jumbotron {
     font-family: $font-mono;
     color: white;
 }
 .jumbo-bgImage {
-/*     background: url("/images/open-data.jpg") no-repeat center center; */
     background-color: rgb(201, 67, 40);
     background-size: cover;
 }
@@ -47,6 +38,14 @@ a:hover {
 }
 .logoImg {
     margin-bottom: 30px;
+}
+
+// text selectors <3
+::selection {
+    background: rgb(255, 255, 165);
+}
+::-moz-selection {
+    background: rgb(255, 255, 165);
 }
 
 @media screen and (min-width: $screen-lg-min) {

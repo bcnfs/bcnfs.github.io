@@ -21,3 +21,10 @@
 .u-marginBottom {
     margin-bottom: 40px;
 }
+
+@media screen and (min-width: $screen-lg-min) {
+    .u-imgSameWidth {
+        height: 160px;
+        width: auto;
+    }
+}
