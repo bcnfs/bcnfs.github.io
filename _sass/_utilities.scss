@@ -18,8 +18,17 @@
 .u-bold {
     font-weight: 500;
 }
+.u-whiteColor {
+    color: rgb(255, 255, 255);
+}
+.u-whiteColor:hover {
+    color: rgb(255, 255, 255);
+}
 .u-marginBottom {
     margin-bottom: 20px;
+}
+.u-moreMarginBottom {
+    margin-bottom: 40px;
 }
 .u-zeroDecoration {
     background-color: transparent;
@@ -33,5 +42,8 @@
     }
     .u-marginBottom {
         margin-bottom: 40px;
+    }
+    .u-moreMarginBottom {
+        margin-bottom: 60px;
     }
 }
