@@ -32,9 +32,11 @@ a:hover {
 // page styles
 .jumbotron {
     font-family: $font-mono;
+    color: white;
 }
 .jumbo-bgImage {
-    background: url("/images/open-data.jpg") no-repeat center center;
+/*     background: url("/images/open-data.jpg") no-repeat center center; */
+    background-color: #C94328;
     background-size: cover;
 }
 .introText {
