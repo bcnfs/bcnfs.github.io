@@ -21,6 +21,10 @@
 .u-marginBottom {
     margin-bottom: 40px;
 }
+.u-zeroDecoration {
+    background-color: transparent;
+    text-decoration: none;
+}
 
 @media screen and (min-width: $screen-lg-min) {
     .u-imgSameWidth {

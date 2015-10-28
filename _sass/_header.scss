@@ -1,0 +1,18 @@
+@import "variables";
+
+// page styles
+.jumbotron {
+    font-family: $font-mono;
+    color: white;
+}
+.jumbo-bgImage {
+    background-color: rgb(201, 67, 40);
+    background-size: cover;
+}
+
+@media screen and (min-width: $screen-lg-min) {
+    .jumbotron {
+        padding: 5em;
+        margin-bottom: 60px;
+    }
+}
