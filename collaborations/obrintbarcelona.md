@@ -3,7 +3,7 @@ layout: page
 title: Obrint Barcelona
 ---
 
-# Introducció
+## Introducció
 
 Com tot moviment amb una barreja de filosofia i interessos econòmics, el món del programari lliure i de codi obert sempre s'ha envoltat d'una certa atmosfera del que en anglès anomenen FUD: Fear, Uncertainty and Doubt; Por, incertesa i dubte. D'altra banda la realitat ens dibuixa un estat molt diferent. Les grans empreses tecnològiques contribueixen grans quantitats de codi en projectes de programari lliure, tant Google, Microsoft o Apple tenen projectes als que hi contribueixen dia a dia i en fan gala.
 
@@ -13,9 +13,9 @@ Podríem resumir l’èxit del programari lliure en permetre l’ús i desenvolu
 
 En aquest article tractarem per què és fonamental facilitar la creació de tecnologies que facilitin l'establiment d'una xarxa de coneixement amb un focus en els avantatges que en pot treure un ciutadà d'un lloc concret, com Barcelona.
 
-# Històries
+## Històries
 
-## Citybikes
+### Citybikes
 
 #### Dades obertes amb programari lliure per tothom - [http://citybik.es](http://citybik.es)
 
@@ -26,7 +26,7 @@ Quan fem servir programari propietari, no ens passa mai pel cap la possibilitat 
 Des de llavors el projecte de Citybikes ha crescut moltíssim transcendint Barcelona i oferint dades unificades per sistemes de bicicletes de més de 400 ciutats d'arreu del món, contribuïdes per ciutadans d'aquests països que en alguns casos possiblement no haguessin mai tingut una aplicació per conèixer l'estat de les bicicletes. Amb el temps, la comunitat internacional ha anat creant diferents aplicacions client pel sistema tant web com la majoria de les plataformes mòbils i ha contribuït la gran majoria dels diferents sistemes de bicicletes de les diferents ciutats del món.
 Un altre dels resultats més sorprenents de Citybikes és que s'hagi convertit en el standard de facto en sistemes de bicicletes compartides fins al punt que d'altres projectes hagin decidit aprofitar aquesta tecnologia, creada sota llicència lliure, per basar-hi [d'altres projectes](https://citybik.es/projects) com CityMapper i Moovit. De la mateixa manera, [diferents estudis](http://ceur-ws.org/Vol-904/paper11.pdf) [universitaris](http://bikesharingatlas.org/network/bicing) s'han basat en les dades obtingudes de Citybikes per crear i analitzar coneixement sobre diferents ciutats, ja que és l'única manera uniforme i clara d'accedir a les dades. Un altre exemple seria com es fa servir Citybikes per explicar com tractar dades de manera general en diferents [llibres](https://www.amazon.es/Automated-Data-Collection-Practical-Scraping/dp/111883481X/).
 
-## Guifi.net
+### Guifi.net
 
 #### Organitzant la xarxa comunitària més gran del país - [http://guifi.net](http://guifi.net)
 Fa bastants anys ja que Internet va arribar per quedar-se. Inicialment això es va fer mitjançant les grans teleoperadores telefòniques que, aprofitant la infraestructura que ja tenien, a poc a poc es van anar adaptant a Internet. No cal dir que aquests canvis necessaris han estat cars i aquestes empreses, amb l'ajut de la inversió pública s'han anat produint per satisfer el mercat. Conseqüentment, en busca d'aquest mercat es va anar donant servei a la població amb certa prioritat a les àrees amb interès comercial.
@@ -35,7 +35,7 @@ Davant aquesta situació un grup de joves de la plana de Vic van decidir posar-s
 
 Guifi.net és avui un dels projectes tecnològics comunitaris més grans de Catalunya, si no el més gran. La seva intenció era fer arribar la connexió a Internet a llocs on no n'hi havia, mitjançant nodes de xarxa sense fil i avui dia és una infraestructura de la que podem disposar en un moment de necessitat, tant en un poble com en una gran ciutat.
 
-## Trovit
+### Trovit
 
 #### Emprenent amb una bona idea i una bona base - [http://www.trovit.es](http://www.trovit.es)
 
@@ -46,7 +46,7 @@ Al voltant de l'any 2007 un grup de 4 va fundar Trovit amb la intenció d'agluti
 Han passat els anys i Trovit ha seguit el seu camí. En aquest camí, els enginyers de Trovit van adonar-se'n de que estaven arribant als límits de les tecnologies en les que es basaven. Això no va ser impediment però, ja que van podem col·laborar amb aquests projectes per tal de millorar-los. Per ells i per tothom.
 És molt potent el fet que pel seu camí passi millorar projectes, idees, que compartim entre tots. És probable que les contribucions de Trovit ajudessin a fer viables projectes d'arreu del món. Amb tota naturalitat. Avui dia Trovit té vora 120 empleats, ofereix servei a 46 països, des de Barcelona.
 
-## Wikipedia
+### Wikipedia
 
 #### informació sense límits - [https://wikipedia.org](https://wikipedia.org)
 
@@ -57,7 +57,7 @@ Wikipedia va començar el Gener del 2001 utilitzant UseModWiki i això li va per
 L'impacte de la cultura oberta ha anat més enllà del programari lliure. El sol fet d'haver adoptat una llicència molt permissiva dins les Creative Commons, ha assegurat que, de la mateixa manera que els desenvolupadors contribueixen a diferents peces de codi, es pugui construir entre tots una enciclopèdia. Wikipedia ha trascendit totes les barreres, arribant a més de 200 idiomes, milions d'articles. Costa imaginar una altra manera d'arribar a aquests números, si no és per què qualsevol persona hi pot contribuir i aportar el que cregui que ha d'aportar. Per exemple, a casa nostra vam estar impulsors d'aquest moviment, sent la [primera edició](http://www.bbc.com/mundo/movil/noticias/2012/05/120501_tecnologia_wikipedia_catalan_aa.shtml) no anglesa en publicar un article. A partir d'aquí, [Amical](https://en.wikipedia.org/wiki/Amical) ha treballat molt per assegurar que la Vikipèdia estigui viva i formi part del nostre dia a dia.
 MediaWiki és programari lliure, utiltizat per milers de pàgines web i només una petita part del seu desenvolupament el fa la Wikimedia Fundation, l’entitat responsable de Wikipedia. La resta del desenvolupament la fan totes les persones que o bé necessiten adaptar el programa o arreglar errors per que MediaWiki funcioni millor per el seu ús. Si la Wikipedia és un projecte molt inclusiu, MediaWiki ha arribat on Wikipedia no podia. Avui dia podem trobar wikis de tota mena, que la gent s'ha instal·lat. Ho fa servir per comunicació interna o externa: [universitats](https://wikitolearn.org), [organitzacions](https://community.kde.org), i un llarg etcètera.
 
-## La informàtica personal i Linux
+### La informàtica personal i Linux
 La informàtica personal ha estat, des del dia que va arribar als mercats, un espai de la informàtica que sentim proper ja que qui més qui menys cada dia acabem fent servir un ordinador, una tauleta o un mòbil intel·ligent. La informàtica personal i certes parts de la professional és especial, ja que és un dels pocs espais en els que el programari és producte central i no accessori. La llibertat en la informàtica personal ha estat tema de discussió des de fa molt de temps i està guanyant rellevància sobretot des de que sabem del cert que els sistemes proprietaris fan usos de les nostres dades dels que no som conscients.
 
 Tot i així, fa molt de temps que parlem de sistemes operatius lliures, es parla d'UNIX, [GNU](http://gnu.org) i BSD des dels anys 80, inclús abans que es s'entengués la informàtica personal com a tal. Aquests sistemes han evolucionat continuadament. Com dèiem abans, GNU/Linux, la conjunció del nucli Linux i les èines de GNU, les podem trobar arreu: des de servidors, telèfons mòbils, ordinadors personals, cotxes, neveres i un llarguíssim etcètera. Tot i que no s'ha acabat d'adoptar definitivament, hi ha molts projectes que s'han ocupat de fer possible que avui dia el programari lliure sigui viable com a plataforma: [KDE](http://kde.org), [Ubuntu](http://ubuntu.com), [Gnome](http://gnome.org), [LibreOffice](https://www.libreoffice.org) són alguns exemples d'aquests projectes i es dóna el cas que hi ha desenvolupadors de tots aquests projectes a casa nostra que veuen com aquesta feina no s'acaba d'aprofitar a casa, com a tots ens agradaria.
@@ -78,4 +78,3 @@ Quan parlem de programari lliure, normalment ens referim a les 4 llibertats fona
 3. _llibertat de distribució_: com dèiem en el 1r punt, volem una societat que té accés a la informàtica. Necessitem que arribi i sovint posar els mitjans serà la manera més fàcil de que poder-ho fer servir. Hem de poder fer arribar el programari a la gent. Com de difícil hauria estat la feina de Guifi.net si hagués hagut de comprar llicències a diferents empreses de programari per cada un dels sistemes que han desplegat?
 
 4. _llibertat de distribució de les modificacions_: quan parlem de tenir la llibertat de modificar, és fàcil caure en el parany d'imaginar-nos fent els canvis nosaltres mateixos o contractant a algú que ho faci. Gent d'arreu té exactament les mateixes necessitats que tenim nosaltres, i vice-versa. Un projecte de programari lliure amb una visió que sàpiga unir les diferents contribucions serà un projecte que avançarà inexorablement. Seria Linux un projecte tant omnipresent com és avui dia si empreses, sovint competidores, no hi estiguessin contribuïnt per fer una plataforma millor entre tots?
-
