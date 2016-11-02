@@ -2,8 +2,8 @@
 title: Barcelona Free Software - Meetup
 email: barcelona-free-software@kde-espana.org
 description: > # this means to ignore newlines until "baseurl:"
-    The Barcelona Free Software meetup is an open space
-    for coders and users who love free software that has +1100 members.
+    Barcelona Free Software is a meetup and an open space
+    for coders and users who love free software (with +1100 members!)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bcnfs.github.io" # the base hostname & protocol for your site
 twitter_username: bcnfs
