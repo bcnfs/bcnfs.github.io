@@ -4,7 +4,6 @@ title: Obrint Barcelona
 ---
 
 ## Introducció
-
 Com tot moviment amb una barreja de filosofia i interessos econòmics, el món del programari lliure i de codi obert sempre s'ha envoltat d'una certa atmosfera del que en anglès anomenen FUD: Fear, Uncertainty and Doubt; Por, incertesa i dubte. D'altra banda la realitat ens dibuixa un estat molt diferent. Les grans empreses tecnològiques contribueixen grans quantitats de codi en projectes de programari lliure, tant Google, Microsoft o Apple tenen projectes als que hi contribueixen dia a dia i en fan gala.
 
 Tot i així seguim tenint la sensació que no en fem servir de manera general. Res més lluny de la realitat, cada cop que accedim a Internet, les nostres dades passen per diversos dispositius que utilitzen programari lliure, la gran majoria de les solucions web estan basades en tecnologies lliures tals com [Apache](http://apache.org/), [Nginx](https://www.nginx.com/), [PHP](http://php.net), [.NET](https://opensource.microsoft.com), [GNU](http://gnu.org), i un llarguíssim etcètera. D'altra banda, la majoria dels productes que utilitzem no són programari lliure del tot ja que els creadors consideren que una manera d'assegurar-se el negoci és restringint-ne l'ús, tot i que no sigui necessàriament la única ni la millor manera de fer-ho.
@@ -78,3 +77,5 @@ Quan parlem de programari lliure, normalment ens referim a les 4 llibertats fona
 3. _llibertat de distribució_: com dèiem en el 1r punt, volem una societat que té accés a la informàtica. Necessitem que arribi i sovint posar els mitjans serà la manera més fàcil de que poder-ho fer servir. Hem de poder fer arribar el programari a la gent. Com de difícil hauria estat la feina de Guifi.net si hagués hagut de comprar llicències a diferents empreses de programari per cada un dels sistemes que han desplegat?
 
 4. _llibertat de distribució de les modificacions_: quan parlem de tenir la llibertat de modificar, és fàcil caure en el parany d'imaginar-nos fent els canvis nosaltres mateixos o contractant a algú que ho faci. Gent d'arreu té exactament les mateixes necessitats que tenim nosaltres, i vice-versa. Un projecte de programari lliure amb una visió que sàpiga unir les diferents contribucions serà un projecte que avançarà inexorablement. Seria Linux un projecte tant omnipresent com és avui dia si empreses, sovint competidores, no hi estiguessin contribuïnt per fer una plataforma millor entre tots?
+
+*Per [Aleix Pol](https://twitter.com/aleixpol) i [Àlex Fiestas](https://twitter.com/afiestas)*.
