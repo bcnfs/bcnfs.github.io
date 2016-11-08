@@ -80,3 +80,5 @@ Quan parlem de programari lliure, normalment ens referim a les [4 llibertats](ht
 4. _llibertat de distribució de les modificacions_: quan parlem de tenir la llibertat de modificar, és fàcil caure en el parany d'imaginar-nos fent els canvis nosaltres mateixos o contractant a algú que ho faci. Gent d'arreu té exactament les mateixes necessitats que tenim nosaltres, i vice-versa. Un projecte de programari lliure amb una visió que sàpiga unir les diferents contribucions serà un projecte que avançarà inexorablement. Seria Linux un projecte tant omnipresent com és avui dia si empreses, sovint competidores, no hi estiguessin contribuïnt per fer una plataforma millor entre tots?
 
 *Per [Aleix Pol](https://twitter.com/aleixpol) i [Àlex Fiestas](https://twitter.com/afiestas)*.
+
+Agraïments: Roger Baig, Rafael Carreras, David Gómez, Wouter Tebbens, Marc Torres
