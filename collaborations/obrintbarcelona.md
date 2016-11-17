@@ -92,4 +92,4 @@ Havent repassat aquests casos, què ens està aportant realment la llibertat del
 
 *Per [Aleix Pol](https://twitter.com/aleixpol) i [Àlex Fiestas](https://twitter.com/afiestas)*.
 
-Agraïments: Roger Baig, Miquel Canes, Rafael Carreras, Cristina Chumillas, Lluís Esquerda, Mònica Garriga, David Gómez, Wouter Tebbens, Marc Torres
+Agraïments: Albert Astals, Roger Baig, Miquel Canes, Rafael Carreras, Cristina Chumillas, Lluís Esquerda, Mònica Garriga, David Gómez, Màrcia Morales, Wouter Tebbens, Marc Torres
