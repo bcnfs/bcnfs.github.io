@@ -75,6 +75,31 @@ Aquí veiem clarament quin és el rol de la comunitat en els projectes de progra
 
 Aquest no és un cas únic, si bé un cas d'èxit de col·laboració entre empresa i comunitat, en el món del programari lliure en trobem molts d'altres: WordPress, AngularJS, etc. Internet s'ha fet amb programari lliure i especialment els productes per Internet en saben treure profit.
 
+### decidim.barcelona
+
+#### Programari lliure fet per l'administració pública - [http://decidim.barcelona](http://decidim.barcelona)
+
+Les administracions públiques són unes de les majors consumidores de programari al món **enllaç**, utilitzant des de informàtica personal fins a grans centres de computació. Finançades per la ciutadania, les institucions públiques gestionen dades personals i privades com podrien ser: impostos, l'historial de salut o dades sobre la qualitat de l'aire. El programari lliure és la millor eina per assegurar una major eficiència de la despesa pública i una garantia de transparència.
+
+Qualsevol infraestructura pública s'ha de dissenyar i executar en sintonia amb la ciutadania que normalment hi és present durant el transcurs de tot el projecte: plantejament, disseny, execució i evolucions futures. Aquesta és una pràctica molt establerta quan parlem d'actius comuns com poden ser una nova plaça al barri o l'arranjament d'un carrer. L'administració també s'assegura que una vegada finalitzada l'execució del projecte la nova infraestructura aportarà valor a la societat d'una manera prolongada en el temps i que futures evolucions seran possibles.
+
+El programari és també infraestructura i com a tal ha de ser subjecte de les mateixes bones pràctiques que qualsevol altre actiu mancomunat desenvolupat per l'administració pública. Un error comú és tractar el programari com un mer mitjà per arribar a un fi en comptes d'un fi en si mateix.
+
+**lligar**
+Cap a setembre de 2015 l'Ajuntament de Barcelona va prendre la decisió de realitzar part del PAM (pla d'acció municipal) de manera col·laborativa amb la ciutadania. Per poder dur a terme el procés participatiu de manera massiva necessitaven tenir una plataforma en línia que facilités la participació de milers de persones. I la necessitaven tenir operativa en 3 mesos.
+
+Aquesta limitació en temps deixava a l'ajuntament únicament amb dues opcions: reutilitzar programari lliure o llicenciar programari de tercers.
+
+Quan es llicencia programari de tercers normalment s'està adquirint només el permís per utilitzar el programari durant un temps i de manera determinada. Tot i que segurament l'ajuntament hagués pogut executar el procés participatiu del PAM el retorn d'aquesta inversió en programari hagués sigut inexistent i l'ajuntament hagués caigut en la trampa de tractar el programari només com un mitjà per arribar a un fi (el procés participatiu) i no un fi en si mateix. Aquest però no és l'únic problema d'aquest model.
+**si s'hagués contractat un producte privatiu, un cop fet no se'n pot fer més ús**
+
+Com més s'inverteix en un programa més dependència es crea amb ell. Si aquest programa està controlat només per una entitat s'acaba amb una situació de monopoli on només un proveïdor es capaç de respondre a les necessitats de client (en aquest cas l'ajuntament). És com si les **bombetes de l'enllumenat públic** fossin especials i només una empresa de tot el món pogués fabricar-les i reparar-les. Això eliminaria la competència i crearia una relació asimètrica entre l'ajuntament i l'empresa.
+
+L'ajuntament de Barcelona però va decidir emprar i adaptar un programa lliure existent anomenat Consul per dur a terme el procés participatiu del PAM. Una vegada finalitzat el procés aquesta inversió en programari va deixar com a retorn no només el resultat del PAM si no també una infraestructura pública de participació ciutadana en forma de programari. Això ha permès que l'ajuntament de Barcelona pugui dur a terme més processos participatius a un cost molt reduït.
+
+El retorn d'aquesta inversió no es queda només a l'ajuntament de Barcelona ja que la necessitat de prendre decisions de manera mancomunada és compartida per moltes entitats públiques i privades que ara disposen d'una plataforma per poder dur a terme els seus processos participatius a un cost molt reduït i que podran contribuir en el seu desenvolupament i adaptar el programa a les seves necessitats o bé ells mateixos o contractant qualsevol proveïdor. **enllaç ciutats que ho adopten**
+
+
 ## Conclusió
 El programari lliure ha guanyat.
 
