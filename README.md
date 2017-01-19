@@ -1,5 +1,8 @@
-# bcnfs site
+# bcnfs.org site
 Website for the meetup, uses [Jekyll](https://jekyllrb.com/) and [Bootstrap](http://getbootstrap.com/).
+
+## Testing
+Execute `bundle exec jekyll serve`.
 
 ## License
 
