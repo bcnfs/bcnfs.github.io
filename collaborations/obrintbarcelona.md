@@ -79,7 +79,7 @@ Aquest no és un cas únic, si bé un cas d'èxit de col·laboració entre empre
 
 #### Programari lliure fet per l'administració pública - [http://decidim.barcelona](http://decidim.barcelona)
 
-Les administracions públiques són una bona part del consum de programari al món **enllaç**: utilitzant des d'informàtica personal fins a grans centres de computació. Finançades per la ciutadania, aquestes institucions gestionen dades personals i privades: impostos, historials sanitaris o dades sobre la qualitat de l'aire. El programari lliure és la millor eina per assegurar una major eficiència de la despesa pública i una garantia de transparència.
+Les administracions públiques són una bona part del consum de programari al món: utilitzant des d'informàtica personal fins a grans centres de computació. Finançades per la ciutadania, aquestes institucions gestionen dades personals i privades: impostos, historials sanitaris o dades sobre la qualitat de l'aire. El programari lliure és la millor eina per assegurar una major eficiència de la despesa pública i una garantia de transparència.
 
 Qualsevol infraestructura pública s'ha de plantejar en sintonia amb la ciutadania que normalment hi és present durant el transcurs de tot el projecte: plantejament, disseny, execució i evolucions futures. Aquesta és una pràctica molt establerta quan parlem d'actius comuns com poden ser una nova plaça al barri o l'arranjament d'un carrer. L'administració també s'assegura de que un cop finalitzada l'execució del projecte la nova infraestructura aporti valor d'una manera prolongada en el temps i que futures evolucions seran factibles.
 
