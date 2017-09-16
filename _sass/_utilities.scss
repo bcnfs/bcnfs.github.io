@@ -30,9 +30,16 @@
 .u-moreMarginBottom {
     margin-bottom: 40px;
 }
+.u-marginRight {
+    margin-right: 10px;
+}
 .u-zeroDecoration {
+    border: none;
     background-color: transparent;
     text-decoration: none;
+}
+.u-vMiddle {
+    vertical-align: middle;
 }
 
 @media screen and (min-width: $screen-lg-min) {

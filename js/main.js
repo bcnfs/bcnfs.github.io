@@ -3,21 +3,18 @@ $(document).ready(function() {
     // Update membership count
     $(".js-members").text(response.data.members)
   });
-  
+
   $.getJSON("https://api.meetup.com/Barcelona-Free-Software/events?desc=true&photo-host=public&page=20&sig_id=103310792&status=past&fields=photo_album&sig=f3ef85dfc4deeae26cc8b29b6bba906dd05cb3fd&callback=?", function(response) {
-    // We only want the last six meetups that have a picture
-    var meetups = response.data.filter(function(d) { return d.photo_album }).slice(0, 6);
-    
-    // Add the info for each one
-    $.each(meetups, function(i, d) {
-      $(".meetupLink")
-        .eq(i)
-        .attr("href", d.link)
-        .text(d.name);
-        
-      $(".meetup img")
-        .eq(i)
-        .attr("src", d.photo_album.photo_sample[0].photo_link)
-    });      
+    var meetups = response.data.slice(0, 20);
+
+    meetups.forEach(function(d) {
+      var date = new Date(d.created);
+      var day = date.getUTCDate();
+      var month = date.getUTCMonth() + 1; //months from 1-12
+      var year = date.getUTCFullYear();
+
+      $(".lastMeetups")
+        .append('<li><a class="u-marginRight" href="'+ d.link + '">' + d.name + '</a><small>' + day + '/' + month + '/' + year  + ' @' + d.venue.name + '</small></li>')
+    });
   });
 });
