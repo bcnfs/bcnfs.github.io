@@ -8,12 +8,14 @@ $(document).ready(function() {
     var upcomingMeetups = response.data.filter(function(d) { return d.status  === 'upcoming'});
     var pastMeetups = response.data.filter(function(d) { return d.status  === 'past'});
 
-    if (upcomingMeetups) {
+    if (!$.isEmptyObject(upcomingMeetups)) {
       $('.upcomingMeetups')
-        .append('<h2 class="u-fontMono">Upcoming meetups</h2>')
         .append('<ul class="meetupList"></ul>');
 
       printMeetups(upcomingMeetups, '.upcomingMeetups');
+    } else {
+      $('.upcomingMeetups')
+        .append('<p class="introText">None planned for the moment. Do you have something interesting to present? <a href="mailto:barcelona-free-software@kde-espana.org">Contact us</a>!</p>');
     }
 
     printMeetups(pastMeetups, '.lastMeetups');
