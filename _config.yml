@@ -5,6 +5,7 @@ description: Barcelona Free Software is a meetup and an open space for coders an
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bcnfs.github.io" # the base hostname & protocol for your site
 twitter_username: BCNFreeSoftware
+fosstodon_username: BCNFreeSoftware
 github_username:  bcnfs
 meetup_username: Barcelona-Free-Software
 
