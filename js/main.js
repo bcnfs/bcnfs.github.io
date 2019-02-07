@@ -15,7 +15,7 @@ $(document).ready(function() {
       printMeetups(upcomingMeetups, '.upcomingMeetups');
     } else {
       $('.upcomingMeetups')
-        .append('<p class="introText">None planned for the moment. Do you have something interesting to present? <a href="mailto:barcelona-free-software@kde-espana.org">Contact us</a>!</p>');
+        .append('<p class="introText">None planned for the moment. Do you have something interesting to present? <a href="mailto:barcelona-free-software@bcnfs.org">Contact us</a>!</p>');
     }
 
     printMeetups(pastMeetups, '.lastMeetups');
