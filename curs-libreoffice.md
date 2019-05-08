@@ -26,7 +26,9 @@ Apunteu-vos enviant un correu a [curs-libreoffice@bcnfs.org](mailto:curs-libreof
 
 [LibreOffice](https://libreoffice.org) és un paquet ofimàtic de codi obert desenvolupat per The Document Foundation que compta amb un processador de textos (Writer), fulla de càlcul (Calc), un gestor de presentacions (Impress), un gestor de bases de dades (Base), un gestor de gràfics (Draw) i un editor de formules matemàtiques (Math).
 
-![Logo LibreOffice](images/logo-curs-libreoffice.png)
+<p align="center">
+  <img src="/images/logo-curs-libreoffice.png" width="50%" title="Logo LibreOffice">
+</p>
 
 Aquest curs es centra en el processador de textos Writer i va dirigit a tots aquells usuaris amb un nivell de coneixement bàsic que volen fer un ús més eficient de l’aplicació.
 
