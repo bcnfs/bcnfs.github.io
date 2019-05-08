@@ -20,9 +20,13 @@ Professor: Xisco Fauli (Trainer certificat per [The Document Foundation](https:/
 
 Preu: 100 €
 
+Apunteu-vos enviant un correu a [curs-libreoffice@bcnfs.org](mailto:curs-libreoffice@bcnfs.org)
+
 ## Descripció
 
 [LibreOffice](https://libreoffice.org) és un paquet ofimàtic de codi obert desenvolupat per The Document Foundation que compta amb un processador de textos (Writer), fulla de càlcul (Calc), un gestor de presentacions (Impress), un gestor de bases de dades (Base), un gestor de gràfics (Draw) i un editor de formules matemàtiques (Math).
+
+![Logo LibreOffice](images/logo-curs-libreoffice.png)
 
 Aquest curs es centra en el processador de textos Writer i va dirigit a tots aquells usuaris amb un nivell de coneixement bàsic que volen fer un ús més eficient de l’aplicació.
 
