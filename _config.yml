@@ -1,7 +1,7 @@
 # Site settings
-title: Barcelona Free Software - Meetup
+title: Barcelona Free Software
 email: barcelona-free-software@bcnfs.org
-description: Barcelona Free Software is a meetup and an open space for coders and users who love free software (with +1400 members!)
+description: We are a community of Free and Open Source software creators in Barcelona. On our main activities is our meetup group, an open gathering for developers and users who share a love for free software.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://bcnfs.org/" # the base hostname & protocol for your site
 twitter_username: BCNFreeSoftware
