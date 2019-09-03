@@ -26,6 +26,9 @@ a.muted {
 a.muted:hover {
     color: rgb(51, 51, 51);
 }
+a:active {
+    text-decoration: none;
+}
 .introText {
     font-size: 20px;
     margin-bottom: 30px;
