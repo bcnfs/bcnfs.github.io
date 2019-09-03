@@ -3,8 +3,8 @@ Our site uses [Jekyll](https://jekyllrb.com/) and [Bootstrap](http://getbootstra
 
 ## Development
 
-We use [bundler](https://bundler.io/) to manage the dependencies. To make code changes first install it with `gem install bundler`.
+We use [bundler](https://bundler.io/) to manage the dependencies. First, install it with `gem install bundler`.
 
-Now, install the dependencies with `bundle install`.
+Now, navigate to this folder and install Jekyll and the other deps with `bundle install`.
 
 Run the development server with `bundle exec jekyll serve`.
