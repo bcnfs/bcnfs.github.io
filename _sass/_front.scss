@@ -40,13 +40,12 @@ a:active {
     margin-bottom: 30px;
 }
 .patrons {
-    margin-bottom: 40px;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-row-gap: 2rem;
 }
 .patronLogo {
-    padding-left: 15px;
-    padding-right: 15px;
-    max-width: 20%;
-    max-height: 7em;
+    max-height: 9rem;
 }
 .closingText {
     font-size: 22px;
@@ -69,6 +68,16 @@ a:active {
 }
 ::-moz-selection {
     background: rgb(255, 255, 165);
+}
+
+
+@media screen and (min-width: $screen-md-min) {
+    .patrons {
+        margin: 0 auto;
+        margin-bottom: 4rem;
+        grid-template-columns: repeat(4, 1fr);
+        max-width: 800px;
+    }
 }
 
 @media screen and (min-width: $screen-lg-min) {
