@@ -22,7 +22,7 @@ It aims at finding ways for enthusiasts to meet through physical (meetups) and v
 
 * Telegram group: https://t.me/+r-wnpzp59uQ5ODZk (missing: bridge to IRC/Matrix)
 
-* Matrix: The IRC room is available through matrix bridge
+* Matrix: [#bcn-kernel-peer-lab:libera.chat](https://matrix.to/#/#bcn-kernel-peer-lab:libera.chat)
 
 * Physical meetups: You can also drop by. We meet roughly once a month... (not begging, but... please)
 
