@@ -16,7 +16,7 @@ It aims at finding ways for enthusiasts to meet through physical (meetups) and v
 
 * Web page: https://bcnfs.org/kernel-peer-lab
 
-* Mailing List: https://lists.bcnfs.org/mailman/listinfo/kernel-peer-lab
+* Mailing List: https://lists.bcnfs.org/mailman3/lists/kernel-peer-lab.bcnfs.org/
 
 * IRC: libera.chat room [#bcn-kernel-peer-lab](https://web.libera.chat/#bcn-kernel-peer-lab)
 
